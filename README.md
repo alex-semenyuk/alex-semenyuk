@@ -1,8 +1,8 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there+👋;I'm+Alexey;Nice+to+meet+you&size=30">
+  <img src="https://github.com/alex-semenyuk/alex-semenyuk/blob/fix_position/images/homercat.png" style="height: 200px; width:200px;"/>
+  <a style="margin-top: 10px;" href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there;I'm+Alexey+👋;Nice+to+meet+you&size=30">
   </a>
-  <img src="https://user-images.githubusercontent.com/5480441/168469769-4d37ca95-d1ce-4761-b0f3-d9de46478902.png" style="height: 200px; width:200px;"/>
 </h1>
 <div align="center">
   <code>
