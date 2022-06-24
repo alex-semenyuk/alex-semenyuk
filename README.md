@@ -10,10 +10,10 @@
   <code><a href="https://stackoverflow.com/users/2650960/alexey-semenyuk" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </div>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-semenyuk&show_icons=true&count_private=true&include_all_commits=true&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-semenyuk&show_icons=true&count_private=true&include_all_commits=true" />
 </div>  
 <div align="center">
-  <img height="210em" src="https://stackoverflow-card.vercel.app/?userID=2650960&hide_border=false"/>
+  <img height="210em" src="https://stackoverflow-card.vercel.app/?userID=2650960"/>
 </div> 
 <div align="center">
   
