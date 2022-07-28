@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://github.com/alex-semenyuk/alex-semenyuk/blob/fix_position/images/homercat.png" style="height: 200px; width:200px;"/>
   <a style="margin-top: 10px;" href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there;I'm+Alexey+👋;Nice+to+meet+you&size=30">
   </a>
