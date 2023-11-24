@@ -7,13 +7,14 @@
   <code>
     <a href="https://www.linkedin.com/in/alexey-semenyuk-60410b94/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/2650960/alexey-semenyuk" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.scrum.org/user/517210" title="PSMI"><img width="22" src=""> Professional Scrum Master™ I</a></code>
 </div>
 <div align="center">
   <img height="200em" src="https://awesome-github-stats.azurewebsites.net/user-stats/alex-semenyuk" />
-</div>  
+</div> 
 <div align="center">
   <img height="210em" src="https://stackoverflow-card.vercel.app/?userID=2650960"/>
-</div> 
+</div>
 <div align="center">
   
  <img height="153em" src="https://github-profile-trophy.vercel.app/?username=alex-semenyuk"/>
