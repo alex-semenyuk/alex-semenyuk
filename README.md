@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/alexey-semenyuk-60410b94/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/2650960/alexey-semenyuk" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.scrum.org/user/517210" title="PSMI"><img width="13.3" src="images/Scrumorg-PSMI_certification.png"> Professional Scrum Master™ I</a></code>
-  <code><a href="https://wiki.hyperledger.org/display/FIR/Maintainers" title="Hyperledger"><img width="13.3" src=""> Hyperledger FireFly Maintainer</a></code>
+  <code><a href="https://wiki.hyperledger.org/display/FIR/Maintainers" title="Hyperledger"><img width="13.3" src="images/hyperledger-firefly.png"> Hyperledger FireFly Maintainer</a></code>
 </div>
 <div align="center">
   <img height="200em" src="https://awesome-github-stats.azurewebsites.net/user-stats/alex-semenyuk" />
