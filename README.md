@@ -5,6 +5,9 @@
   </div>
   <div align="center">
     <a href="https://wiki.hyperledger.org/display/FIR/Maintainers" title="Hyperledger"><img width="13.3" src="images/hyperledger-firefly.png"> Hyperledger FireFly Maintainer</a>
+      <a href="https://www.rust-lang.org/governance/wgs/wg-triage" title="Rust"><img width="13.3" src=""> Rust Triage WG</a>
+  </div>
+  <div align="center">
     <a href="https://www.kaicode.org/2024.html" title="KaiCode Open Source Festival"><img width="13.3" src="images/logo_kaicode.svg"> Jury member KaiCode Open Source Festival</a>
     <a href="https://www.scrum.org/user/517210" title="PSMI"><img width="13.3" src="images/Scrumorg-PSMI_certification.png"> Professional Scrum Master™ I</a>
   </div>
