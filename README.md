@@ -8,6 +8,9 @@
       <a href="https://www.rust-lang.org/governance/wgs/wg-triage" title="Rust"><img width="13.3" src="images/images_rust.jpeg"> Rust Triage WG Member</a>
   </div>
   <div align="center">
+    <a href="https://www.amazon.co.uk/Angry-Tests-Yegor-Bugayenko/dp/B0F54QSHHS?asin=B0F54QSHHS&revisionId=&format=4&depth=1" title="Angry Tests">Angry Tests</a> and <a href="https://www.amazon.com/256-Bloghacks-Yegor-Bugayenko/dp/1537688669?asin=1537688669&revisionId=&format=4&depth=1" title="Angry Tests">256 Bloghacks</a> books reviewer
+  </div>
+  <div align="center">
     <a href="https://www.kaicode.org/2024.html" title="KaiCode Open Source Festival"><img width="13.3" src="images/logo_kaicode.svg"> Jury member KaiCode Open Source Festival</a>
     <a href="https://www.scrum.org/user/517210" title="PSMI"><img width="13.3" src="images/Scrumorg-PSMI_certification.png"> Professional Scrum Master™ I</a>
   </div>
