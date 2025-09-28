@@ -5,7 +5,7 @@
   </div>
   <div align="center">
     <a href="https://lf-hyperledger.atlassian.net/wiki/spaces/FIR/pages/20155055/Maintainers" title="LF Decentralized Trust"><img width="13.3" src="images/hyperledger-firefly.png"> Hyperledger FireFly Maintainer</a>
-      <a href="https://www.rust-lang.org/governance/wgs/wg-triage" title="Rust"><img width="13.3" src="images/images_rust.jpeg"> Rust Triage WG Member</a>
+      <a href="https://rust-lang.org/governance/teams/launching-pad/#team-wg-triage" title="Rust"><img width="13.3" src="images/images_rust.jpeg"> Rust Triage WG Member</a>
   </div>
   <div align="center">
     <a href="https://www.amazon.co.uk/Angry-Tests-Yegor-Bugayenko/dp/B0F54QSHHS?asin=B0F54QSHHS&revisionId=&format=4&depth=1" title="Angry Tests">Angry Tests</a> and <a href="https://www.amazon.com/256-Bloghacks-Yegor-Bugayenko/dp/1537688669?asin=1537688669&revisionId=&format=4&depth=1" title="256 Bloghacks">256 Bloghacks</a> books reviewer
