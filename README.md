@@ -5,6 +5,7 @@
   </div>
   <div align="center">
     <a href="https://lf-hyperledger.atlassian.net/wiki/spaces/FIR/pages/20155055/Maintainers" title="LF Decentralized Trust"><img width="13.3" src="images/hyperledger-firefly.png"> Hyperledger FireFly Maintainer</a>
+    <a href="https://rust-lang.org/governance/teams/dev-tools/#team-clippy-contributors" title="Rust"><img width="13.3" src="images/images_rust.jpeg"> Clippy Contributors Team Member</a>
       <a href="https://rust-lang.org/governance/teams/launching-pad/#team-wg-triage" title="Rust"><img width="13.3" src="images/images_rust.jpeg"> Rust Triage WG Member</a>
   </div>
   <div align="center">
