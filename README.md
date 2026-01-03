@@ -14,12 +14,15 @@
   </div>
   <div align="center">
     <a href="https://www.amazon.co.uk/Angry-Tests-Yegor-Bugayenko/dp/B0F54QSHHS?asin=B0F54QSHHS&revisionId=&format=4&depth=1" title="Angry Tests">Angry Tests</a> and <a href="https://www.amazon.com/256-Bloghacks-Yegor-Bugayenko/dp/1537688669?asin=1537688669&revisionId=&format=4&depth=1" title="256 Bloghacks">256 Bloghacks</a> books reviewer
-  <a href="https://www.kaicode.org/2024.html" title="KaiCode Open Source Festival"><img width="13.3" src="images/logo_kaicode.svg"> Jury member KaiCode Open Source Festival</a>  
+  <a href="https://arxiv.org/pdf/2111.13384" title="𝜑-Calculus: Object-Oriented Formalism">𝜑-Calculus: Object-Oriented Formalism</a> (see Acknowledgments section)
+  </div>
+  <div align="center">
+    <a href="https://www.scrum.org/user/517210" title="PSMI"><img width="13.3" src="images/Scrumorg-PSMI_certification.png"> Professional Scrum Master™ I</a>
+    <a href="https://www.kaicode.org/2024.html" title="KaiCode Open Source Festival"><img width="13.3" src="images/logo_kaicode.svg"> Jury member KaiCode Open Source Festival</a>  
   </div>
   <div align="center">
     <a href="https://www.baeldung.com/author/alexsemenyuk" title="Baeldung author"><img width="13.3" src="images/baeldung.png"> Baeldung's blog author</a>
     <a href="https://blog.jetbrains.com/idea/2024/10/top-java-blogs-to-follow-in-2024-part-1/"> (one of top Java Blogs accordingly Jetbrains)</a>
-    <a href="https://www.scrum.org/user/517210" title="PSMI"><img width="13.3" src="images/Scrumorg-PSMI_certification.png"> Professional Scrum Master™ I</a>
   </div>
   <div align="center">
     <img height="200em" src="https://awesome-github-stats.azurewebsites.net/user-stats/alex-semenyuk" />
