@@ -13,10 +13,10 @@
       <a href="https://rust-lang.org/governance/teams/launching-pad/#team-wg-triage" title="Rust"><img width="13.3" src="images/images_rust.jpeg"> Rust Triage Team Member</a>
   </div>
   <div align="center">
-    <a href="https://arxiv.org/html/2111.13384v5#S8" title="EO and φ-calculus"><img width="13.3" src="images/logo_kaicode.svg"> EOLANG and 
-φ-calculus contributor</a>
     <a href="https://www.amazon.co.uk/Angry-Tests-Yegor-Bugayenko/dp/B0F54QSHHS?asin=B0F54QSHHS&revisionId=&format=4&depth=1" title="Angry Tests">Angry Tests</a> and <a href="https://www.amazon.com/256-Bloghacks-Yegor-Bugayenko/dp/1537688669?asin=1537688669&revisionId=&format=4&depth=1" title="256 Bloghacks">256 Bloghacks</a> books reviewer
-  <a href="https://www.kaicode.org/2024.html" title="KaiCode Open Source Festival"><img width="13.3" src="images/logo_kaicode.svg"> Jury member KaiCode Open Source Festival</a>  
+  <a href="https://www.kaicode.org/2024.html" title="KaiCode Open Source Festival"><img width="13.3" src="images/logo_kaicode.svg"> Jury member KaiCode Open Source Festival</a>
+  <a href="https://arxiv.org/html/2111.13384v5#S8" title="EO and φ-calculus"><img width="13.3" src="images/logo_kaicode.svg"> EOLANG and 
+φ-calculus contributor</a>  
   </div>
   <div align="center">
     <a href="https://www.baeldung.com/author/alexsemenyuk" title="Baeldung author"><img width="13.3" src="images/baeldung.png"> Baeldung's blog author</a>
