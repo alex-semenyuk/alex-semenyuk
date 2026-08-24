@@ -17,11 +17,12 @@
   <a href="https://www.kaicode.org/2024.html" title="KaiCode Open Source Festival"><img width="13.3" src="images/logo_kaicode.svg"> Jury member KaiCode Open Source Festival</a>  
   </div>
   <div align="center">
-  <a href="https://www.baeldung.com/author/alexsemenyuk" title="Baeldung author"><img width="13.3" src="images/baeldung.png"> Baeldung's blog author</a>
+  <a href="https://go.googlesource.com/go/+/950fa11c4cb01a145bb07eeb167d90a1846061b3/CONTRIBUTORS#158" title="Golang"><img width="13.3" src="images/golang.png"> Golang contributor</a>
   <a href="https://arxiv.org/html/2111.13384v5#S8" title="EO and φ-calculus"><img width="13.3" src="images/cactus.svg"> EOLANG and 
 φ-calculus contributor</a>  
   </div>
   <div align="center">
+    <a href="https://www.baeldung.com/author/alexsemenyuk" title="Baeldung author"><img width="13.3" src="images/baeldung.png"> Baeldung's blog author</a>
     <a href="https://www.scrum.org/user/517210" title="PSMI"><img width="13.3" src="images/Scrumorg-PSMI_certification.png"> Professional Scrum Master™ I</a>
   </div>
   <div align="center">
