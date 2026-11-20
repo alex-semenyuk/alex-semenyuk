@@ -11,6 +11,7 @@
     <a href="https://rust-lang.org/governance/people/alex-semenyuk/" title="Rust"><img width="13.3" src="images/images_rust.jpeg"> Rust Project Member</a>
     <a href="https://rust-lang.org/governance/teams/dev-tools/#team-clippy-contributors" title="Rust"><img width="13.3" src="images/images_rust.jpeg"> Rust Clippy Contributors Team Member</a>
       <a href="https://rust-lang.org/governance/teams/launching-pad/#team-triage" title="Rust"><img width="13.3" src="images/images_rust.jpeg"> Rust Triage Team Member</a>
+      <a href="https://rust-lang.org/governance/teams/launching-pad/#team-twir-reviewers" title="Rust"><img width="13.3" src="images/images_rust.jpeg"> TWiR Reviewers</a>
   </div>
   <div align="center">
     <a href="https://www.amazon.co.uk/Angry-Tests-Yegor-Bugayenko/dp/B0F54QSHHS?asin=B0F54QSHHS&revisionId=&format=4&depth=1" title="Angry Tests">Angry Tests Vol. 1</a>, <a href="https://www.amazon.co.uk/gp/product/B0H2S12V7D?asin=B0F54QSHHS&revisionId=&format=4&depth=1" title="Angry Tests">Angry Tests Vol. 2</a> and <a href="https://www.amazon.com/256-Bloghacks-Yegor-Bugayenko/dp/1537688669?asin=1537688669&revisionId=&format=4&depth=1" title="256 Bloghacks">256 Bloghacks</a> books reviewer
